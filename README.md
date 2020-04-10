@@ -1,2 +1,3 @@
 # hello-word
-another repository
+Hi,
+I like program
